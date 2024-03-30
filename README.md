@@ -1,2 +1,2 @@
 # APPLIO
-it is an application that manage demands of employees. 
+it is an application that manages demands of employees. 
